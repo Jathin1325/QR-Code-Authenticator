@@ -78,6 +78,16 @@ Screenshots of the Project -
 
 ![Screenshot 2025-03-27 163817](https://github.com/user-attachments/assets/500ae568-66da-4927-a11a-a449312bb27b)
 
+![Screenshot 2025-03-27 163941](https://github.com/user-attachments/assets/b744590a-9f4a-4839-948a-ec8d5ba01564)
+
+![Screenshot 2025-03-27 164008](https://github.com/user-attachments/assets/df84b5d7-d1ea-429e-9b39-271fa08f18c0)
+
+![Screenshot 2025-03-27 164050](https://github.com/user-attachments/assets/f318dcb4-1a67-40b9-98db-e9a52d283e08)
+
+
+
+
+
 
 
 
