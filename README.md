@@ -74,6 +74,12 @@ Background Image -
 ![360_F_529863341_cxKCD4AdKCnQUSLxIRENxFfKSF1zjkVy](https://github.com/user-attachments/assets/c1c386c1-876d-4d7b-830f-118d788d7d7b)
 
 
+Screenshots of the Project -
+
+![Screenshot 2025-03-27 163817](https://github.com/user-attachments/assets/500ae568-66da-4927-a11a-a449312bb27b)
+
+
+
 
 
 
