@@ -68,3 +68,7 @@ Implement actual QR code scanning
 Add database support for tracking verification results
 
 Improve UI with animations and better error handling
+
+![360_F_529863341_cxKCD4AdKCnQUSLxIRENxFfKSF1zjkVy](https://github.com/user-attachments/assets/52ae56e6-c1a0-4196-9df8-dd75def18a89)
+
+
