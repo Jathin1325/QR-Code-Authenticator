@@ -69,6 +69,12 @@ Add database support for tracking verification results
 
 Improve UI with animations and better error handling
 
+Background Image -
+
+![360_F_529863341_cxKCD4AdKCnQUSLxIRENxFfKSF1zjkVy](https://github.com/user-attachments/assets/c1c386c1-876d-4d7b-830f-118d788d7d7b)
+
+
+
 
 
 
